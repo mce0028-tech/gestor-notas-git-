@@ -13,6 +13,7 @@ while True:
 
     opcion = input("Selecciona una opción: ")
 
+#Menú
     if opcion == "1":
         texto = input("Introduce la nota: ")
         agregar_nota(notas, texto)
