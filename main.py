@@ -1,3 +1,5 @@
+#Miguel Caro Escalera 14/04/2026
+
 from notas import agregar_nota, mostrar_notas, eliminar_nota
 
 notas = []
