@@ -1,4 +1,4 @@
-#Miguel Caro Escalera 13/04/2026
+#Miguel Caro Escalera 15/04/2026
 
 from notas import agregar_nota, mostrar_notas, eliminar_nota
 
