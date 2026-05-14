@@ -13,7 +13,7 @@ def mostrar_notas(lista):
         for i, nota in enumerate(lista):
             print(f"{i + 1}. {nota}")
 
-
+#Esta función es para eliminar la nota que queramos
 def eliminar_nota(lista):
     mostrar_notas(lista)
 
