@@ -1,3 +1,5 @@
+#Esta el la clase notas
+
 def agregar_nota(lista, texto):
     lista.append(texto)
     print("Nota añadida correctamente")
